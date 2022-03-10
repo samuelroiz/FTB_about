@@ -34,7 +34,7 @@ class Header extends HTMLElement {
                   More
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a style="color:white" class="dropdown-item" href="https://samuelroiz.github.io/FTB_about/">About</a>
+                  <a style="color:white" class="dropdown-item" href="https://samuelroiz.github.io/FTB_about_link/">About</a>
                   <a style="color:white" class="dropdown-item" href="/authors">Authors</a>
                 </div>
             </li>  
