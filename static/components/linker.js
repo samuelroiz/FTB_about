@@ -31,7 +31,7 @@ class Linker extends HTMLElement {
   
           <div class="col-sm-12 col-md-3 humidity-wobble">
               <div class="thumbnail">
-                <a href="/league">
+                <a href="https://samuelroiz.github.io/FTB_league/">
                     <img src="https://previews.123rf.com/images/ohmega1982/ohmega19821211/ohmega1982121100293/16394524-le-football-du-football-sur-le-point-de-penalty-pour-penalty.jpg" alt="..." class="img-thumbnail">
                 </a>  
               </div>

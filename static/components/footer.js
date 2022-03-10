@@ -37,7 +37,7 @@ class Footer extends HTMLElement {
                 <a href="https://samuelroiz.github.io/FTB_about_link/" class="text-reset">About</a>
               </p>
               <p style="color:blue">
-                <a href="/authors" class="text-reset">Authors</a>
+                <a href="https://samuelroiz.github.io/FTB_authors_link/" class="text-reset">Authors</a>
               </p>
             </div>
             <!-- Grid column -->
