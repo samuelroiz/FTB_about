@@ -21,7 +21,7 @@ class Linker extends HTMLElement {
           
           <div class="col-sm-12 col-md-3 humidity-wobble">
               <div class="thumbnail">
-                <a href="/mr">
+                <a href="https://samuelroiz.github.io/FTB_messi_ronaldo/">
                     <img src="static/images/MessiVsRonaldo.jpg" alt="..." class="img-thumbnail">
                 </a>                    </div>
             <div class="caption text-center" style="color:black">

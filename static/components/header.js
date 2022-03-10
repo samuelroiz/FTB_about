@@ -18,7 +18,7 @@ class Header extends HTMLElement {
             </li>
         
             <li class="nav-item">
-                <a style="color:white" class="nav-link" href="/mr">Messi Vs. Ronaldo</a>
+                <a style="color:white" class="nav-link" href="https://samuelroiz.github.io/FTB_messi_ronaldo/">Messi Vs. Ronaldo</a>
                 
             </li>
             <li class="nav-item">
